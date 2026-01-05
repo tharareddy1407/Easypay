@@ -40,7 +40,7 @@ from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.responses import HTMLResponse, JSONResponse
 
 app = FastAPI(title="Smart Drive-Thru Ordering Platform"
-                    "Real-Time Voice Ordering, Secure Lane Connection & Mobile Payment")
+                    "(Real-Time Voice Ordering, Secure Lane Connection & Mobile Payment)")
 
 # -----------------------------------------------------------------------------
 # In-memory stores (demo only)
