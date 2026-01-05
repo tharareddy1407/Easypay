@@ -155,9 +155,11 @@ async def relay_call(order_id: str, sender_role: str, payload: dict) -> None:
 HOME_HTML = """
 <!doctype html>
 <html>
-<head><meta charset="utf-8"/><title>Drive-Thru Demo</title></head>
+<head><meta charset="utf-8"/><title>Drive-Thru Connect"
+                    "Mobile Voice Ordering & Payment Platform for Quick-Service Restaurants</title></head>
 <body style="font-family:Arial;margin:24px;">
-  <h2>Drive-Thru Demo</h2>
+  <h2>Drive-Thru Connect"
+                    "Mobile Voice Ordering & Payment Platform for Quick-Service Restaurants</h2>
   <ul>
     <li><a href="/customer">Customer Portal</a></li>
     <li><a href="/cashier">Cashier Console (POS + Agent)</a></li>
