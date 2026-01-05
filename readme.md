@@ -7,35 +7,35 @@ Customers complete the entire ordering and payment process on their mobile phone
 This approach represents a smarter, mobile-first alternative to traditional drive-thru systems that rely on outdoor microphones, cash handling, and in-person payment terminals.
 
 **Who This Project Is For**
-This project is relevant for:
+1.This project is relevant for:
 * Quick-service restaurants (QSRs)
 * Drive-thru technology and product teams
 * Restaurant operations and innovation leaders
 * Engineers and architects exploring real-time, mobile-first systems
 
-**Key Differentiator**
-No Window Interaction Until Pickup
-Customers do not need to open the car window to:
+**Key Differentiator**:
+1.No Window Interaction Until Pickup
+2.Customers do not need to open the car window to:
 * Place an order
 * Communicate with the cashier
 * Make a payment
-Ordering and payment are completed inside the vehicle using a phone. The window is opened only at the pickup window.
+3.Ordering and payment are completed inside the vehicle using a phone. The window is opened only at the pickup window.
 This significantly improves:
 * Comfort during rain, cold, or extreme heat
 * Order accuracy in noisy environments
 * Speed and safety of the drive-thru experience
 
 **Why This Is a Smarter Approach**
-Traditional Drive-Thru Systems Require:
+1.Traditional Drive-Thru Systems Require:
 * Outdoor microphones and speakers
 * Verbal ordering through open windows
 * Physical payment terminals
 * Multiple stop-and-go interactions
-This System Replaces Those With:
+2.This System Replaces Those With:
 * Secure lane-based mobile connection
 * Real-time chat or voice call via phone
 * In-app payment before pickup
-Result: A simpler, faster, and more reliable drive-thru workflow with fewer hardware dependencies.
+**Result**: A simpler, faster, and more reliable drive-thru workflow with fewer hardware dependencies.
 
 **Updated User Flow**
 1. Customer enters the drive-thru lane
