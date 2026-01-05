@@ -1,4 +1,4 @@
-Smart Drive-Thru Ordering & Mobile Payment Platform
+**Smart Drive-Thru Ordering & Mobile Payment Platform**
 Order and Pay Without Opening the Car Window
 
 Project Overview
